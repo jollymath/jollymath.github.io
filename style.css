@@ -1,0 +1,9 @@
+body{
+  color:red;
+ background: rgb(150,210,255);
+}
+hr {
+    height: 2px;
+    border: none;
+    background-color: red;
+}
